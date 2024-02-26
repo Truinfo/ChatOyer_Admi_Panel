@@ -1,0 +1,23 @@
+.edit-Coupons{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.edit-Coupons .Coupons-1{
+   
+    margin-top: 20px;
+}
+.button{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.container-Coupons{
+    font-family: "Mulish", sans-serif;
+}
+.edit-Coupons .row{
+    margin-top: 20px;
+}

@@ -1,0 +1,26 @@
+.Orders-Container{
+    margin: 10px;
+}
+.Orders-header-text {
+  color: #4f3267;
+  font-size: 35px;
+  text-align: center;
+  font-family: "Domine", serif;
+}
+
+.Orders-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0 0 10px;
+  font-family: "Domine", serif;
+}
+
+.table-body{
+  font-size: 18px;
+  font-family: "Mulish", sans-serif;
+}
+.Order-Details{
+  width: 90px;
+}
+

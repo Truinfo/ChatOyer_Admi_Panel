@@ -1,0 +1,13 @@
+.category-header{
+    font-family: "Domine", serif;
+}
+.col-md-6{
+    font-family: "Mulish", sans-serif;
+}
+.create-button{
+    width: 200px;
+    height: 50px;
+}
+.add-category .form-check-input .form-label{
+    font-family: "Domine", serif;  
+}

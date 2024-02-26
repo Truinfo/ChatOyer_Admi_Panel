@@ -1,0 +1,26 @@
+.Customer-Container{
+    margin: 10px;
+}
+.Customer-header-text {
+  color: #4f3267;
+  font-size: 35px;
+  text-align: center;
+  font-family: "Domine", serif;
+}
+
+.Customer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0 0 20px;
+  font-family: "Domine", serif;
+}
+.customer-invoice{
+  border:none;
+  font-size: 25px;
+  color: orangered;
+}
+.table-body{
+  font-size: 18px;
+  font-family: "Mulish", sans-serif;
+}

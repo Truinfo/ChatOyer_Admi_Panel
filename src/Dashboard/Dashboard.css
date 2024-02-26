@@ -1,0 +1,16 @@
+.Dashboard-Container{
+    font-family: "Arial, sans-serif";
+}
+.Dashboard-header-text {
+  color: #4f3267;
+  font-size: 35px;
+  text-align: center;
+  font-family: Domine, serif;
+}
+
+.Dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0 0 20px;
+}

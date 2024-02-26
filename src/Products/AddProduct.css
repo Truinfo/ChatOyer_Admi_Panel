@@ -1,0 +1,9 @@
+.add-category-form label{
+    font-weight: bold;
+    font-family: Mulish, sans-serif;
+}
+.create-add-product-header{
+    font-family: Domine,serif;
+    color: #4f3267;
+    margin-top: 20px;
+}
